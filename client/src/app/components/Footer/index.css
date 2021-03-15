@@ -1,0 +1,19 @@
+.footer__icons {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.footer__icons--fb {
+  color: lightskyblue;
+}
+.footer__icons--insta {
+  color: bisque;
+}
+.footer__icons--tw {
+  color: blue;
+}
+.footer__icons--li {
+  color: lightsteelblue;
+}
